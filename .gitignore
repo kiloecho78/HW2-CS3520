@@ -1,2 +1,4 @@
 #attempting to create a .gitignore file to ignore build data 
+nbproject/private/
 build/
+/HW2/nbproject/private/
