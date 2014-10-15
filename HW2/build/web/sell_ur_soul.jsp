@@ -1,7 +1,7 @@
 <%-- 
     Document   : sell_ur_soul
     Created on : Oct 8, 2014, 7:46:06 PM
-    Author     : Keith
+    Author     : Keith Everitt wr5555 & Darren Goostree sz5629
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
